@@ -91,6 +91,3 @@ Smart Student Placement Management is a ServiceNow application designed to strea
 
 ServiceNow Certified System Administrator (CSA)  
 ServiceNow Certified Application Developer (CAD)
-
-### Student Data
-![Student Data](Screenshots/08_StudentDatas.png)
