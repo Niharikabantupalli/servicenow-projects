@@ -40,6 +40,7 @@ Smart Student Placement Management is a ServiceNow application designed to strea
 ### Drive Data
 ![Drive Data](Screenshots/07_DriveDatas.png)
 
+### Student Data
 ![Student Data](Screenshots/08_StudentDatas.png)
 
 ### Client Script
