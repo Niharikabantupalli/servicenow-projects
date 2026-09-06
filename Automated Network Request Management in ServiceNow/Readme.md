@@ -37,14 +37,4 @@ approving, assigning, and tracking network-related requests.
 The application is implemented using ServiceNow
 configuration and automation features.
 
-## Project Screenshots
 
-Screenshots will be added as the implementation progresses.
-
-## Project Status
-
-🚧 Work in Progress
-
-## Author
-
-Niharika
